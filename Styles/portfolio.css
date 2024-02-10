@@ -40,9 +40,10 @@ nav a{
 }
 /* Header related style */
 .header{
-    background-color: #fff8f3;
+    background-color: #FFF8F3;
 }
-.header{
+
+.banner{
     padding: 30px 30px 30px 150px;
     display: flex;
     align-items: center;
@@ -50,4 +51,4 @@ nav a{
 .banner .profile_pic{
     width: 500px;
 
-}
+} 
